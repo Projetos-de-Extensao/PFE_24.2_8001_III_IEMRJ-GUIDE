@@ -17,6 +17,7 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 | 20240879669  |  Paco Guimarães |
 | 202402185314  |  Yago Duarte Andrade|
 | xxxxxx        | Fabricio de Brito   |
+| 202308149814  | Arthur Gomes        |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
