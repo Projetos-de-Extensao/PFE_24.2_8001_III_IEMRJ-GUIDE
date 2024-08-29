@@ -15,7 +15,8 @@ Esse repositório é para ser utilizado pelos grupos como um template inicial, d
 |Matrícula | Aluno |
 | -- | -- |
 | 20240879669  |  Paco Guimarães |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 202402185314  |  Yago Duarte Andrade|
+| xxxxxx        | Fabricio de Brito   |
 
 ## Sobre 
 Descreva o seu projeto em linhas gerais. 
