@@ -16,20 +16,20 @@
 - 🏨 **Hotéis nas Redondezas:**  
   Ao redor do Parque Olímpico, há uma variedade de hotéis bem avaliados:
 
-  - **Lagune Barra**: Hotel 4 estrelas com vista para a Lagoa de Jacarepaguá.  
-    🌐 [Website Lagune Barra](http://www.lagunebarrahotel.com.br/?utm_source=google&utm_medium=organic&utm_campaign=google-meu-negocio)  
-    ☎️ (021) 2113-7000  
-    **Endereço:** Av. Salvador Allende, 6.555.
+    - **Lagune Barra**: Hotel 4 estrelas com vista para a Lagoa de Jacarepaguá.  
+      🌐 [Website Lagune Barra](http://www.lagunebarrahotel.com.br/?utm_source=google&utm_medium=organic&utm_campaign=google-meu-negocio)  
+      ☎️ (021) 2113-7000  
+      **Endereço:** Av. Salvador Allende, 6.555.
 
-  - **Hotel Hilton Barra Rio de Janeiro**: Hotel 4 estrelas localizado ao lado do Shopping Metropolitano.  
-    🌐 [Website Hilton Barra](https://www.hilton.com/en/hotels/rioabhh-hilton-barra-rio-de-janeiro/?SEO_id=GMB-AMER-HH-RIOABHH&y_source=1_MTIxNjk1NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D)  
-    ☎️ (021) 3348-1000  
-    **Endereço:** Av. Embaixador Abelardo Bueno, 1430.
+    - **Hotel Hilton Barra Rio de Janeiro**: Hotel 4 estrelas localizado ao lado do Shopping Metropolitano.  
+      🌐 [Website Hilton Barra](https://www.hilton.com/en/hotels/rioabhh-hilton-barra-rio-de-janeiro/?SEO_id=GMB-AMER-HH-RIOABHH&y_source=1_MTIxNjk1NzMtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D)  
+      ☎️ (021) 3348-1000  
+      **Endereço:** Av. Embaixador Abelardo Bueno, 1430.
 
-  - **Venit + Mio Barra Hotel**: Hotel 4 estrelas localizado em frente ao Parque Olímpico.  
-    🌐 [Website Venit + Mio](http://www.venithoteis.com/)  
-    ☎️ (021) 3993-9000  
-    **Endereço:** Av. Embaixador Abelardo Bueno, 2710.
+    - **Venit + Mio Barra Hotel**: Hotel 4 estrelas localizado em frente ao Parque Olímpico.  
+      🌐 [Website Venit + Mio](http://www.venithoteis.com/)  
+      ☎️ (021) 3993-9000  
+      **Endereço:** Av. Embaixador Abelardo Bueno, 2710.
 
 - 🛍️ **Shopping Metropolitano Barra:**  
   O Parque Olímpico está próximo ao **Shopping Metropolitano Barra**, que oferece diversos serviços, como academia, cinema, casas de câmbio, estacionamento, ponto de táxi, restaurantes, espaço família e muito mais. É uma opção prática para visitantes que precisam de conveniências.  
@@ -49,7 +49,7 @@
   - **Hospital Municipal Raphael de Paula Souza**
   - **Hospital Barra D'Or**
   - **Hospital Unimed-Rio**
-  - **Perinatal Barra**: Maternidade, urgência e emergência.
+  - **Perinatal Barra: Maternidade, urgência e emergência.**
   - **Hospital Municipal Lourenço Jorge**
 
 ---
