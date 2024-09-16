@@ -1,32 +1,26 @@
-# RepositorioTemplate
-Esse repositório é para ser utilizado pelos grupos como um template inicial, da home page do Projeto.
-**!! Atenção: Renomeie o seu repositório para (Ano.Semestre)_(Grupo)_(NomeDoProjeto). !!** 
+# IEMRJ-GUIDE
 
-**!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: 2024.1_PFE1_ProjetoPandora!!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número do Grupo**: XX<br>
+**Número do Grupo**: III<br>
 **Código da Disciplina**: FGA0208-T01<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 20240879669  |  Paco Guimarães |
-| 202402185314  |  Yago Duarte Andrade|
-| 202402628933        | Fabrício de Brito   |
 | 202308149814  | Arthur Gomes        |
+| 202402628933  | Fabrício de Brito   |
+| 20240879669   |  Paco Guimarães |
+| 202402185314  |  Yago Duarte Andrade|
+
+
 
 ## Sobre 
-Descreva o seu projeto em linhas gerais. 
+Site dedicado à auxilar a experência de fãs de e-sports no evento IEM, campeonato internacional de "Counter-Strike 2", que será realizado no Rio de Janeiro. 
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
 
 ## Instalação 
-**Linguagens**: xxxxxx<br>
+**Linguagens**: HTML, CSS, JavaScript<br>
 **Tecnologias**: xxxxxx<br>
 Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 Insira um manual ou um script para auxiliar ainda mais.
