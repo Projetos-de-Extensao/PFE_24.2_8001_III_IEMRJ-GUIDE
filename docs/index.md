@@ -1,17 +1,35 @@
-# Welcome to MkDocs
+# IEMRJ-GUIDE
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**Número do Grupo**: III<br>
+**Código da Disciplina**: FGA0208-T01<br>
 
-## Commands
+## Alunos
+|Matrícula | Aluno |
+| -- | -- |
+| 202308149814  | Arthur Gomes        |
+| 202402628933  | Fabrício de Brito   |
+| 20240879669   |  Paco Guimarães |
+| 202402185314  |  Yago Duarte Andrade|
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Sobre 
+Site dedicado à auxilar a experência de fãs de e-sports no evento IEM, campeonato internacional de "Counter-Strike 2", que será realizado no Rio de Janeiro. 
+
+## Screenshots
+Adicione 3 ou mais screenshots do projeto em termos de interface e funcionamento.
+
+## Instalação 
+**Linguagens**: HTML, CSS, JavaScript<br>
+**Tecnologias**: xxxxxx<br>
+Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+Insira um manual ou um script para auxiliar ainda mais.
+
+## Uso 
+Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+
+## Vídeo
+Adicione 1 ou mais vídeos com a execução do projeto final.
+
+## Outros 
+Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
