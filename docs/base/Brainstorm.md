@@ -46,8 +46,9 @@ A plataforma deve fornecer informações sobre:
  
 ### 3. Quais informações seriam interessante para o cliente?
 <p align = "justify">
-   - Programação completa dos 3 dias de evento, indicando os horários em que cada partida será realizada.
-   - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios e as line-ups de cada equipe.
+   
+   - Programação completa dos 3 dias de evento, indicando os horários em que cada partida será realizada;
+   - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios e as line-ups de cada equipe;
    - O cliente usuário poderá acessar informações de hospedagem, sugestões de restaurantes e postos de saúde por perto.
 </p>
  
