@@ -48,4 +48,4 @@ O objetivo da equipe de desenvolvimento garantir que o usuário tenha todas as i
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| 18/09/2024 | 1.0 | Criação do documento | Fabrício e Paco | 
+| 18/09/2024 | 1.0 | Criação do documento | Fabrício | 
