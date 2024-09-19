@@ -22,9 +22,10 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via discord, onde 
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-Deve ser uma plataforma onde qualquer pessoa possa ter uma boa expêriencia no evento IEM realizado no Rio de Janeiro.
+Deve ser uma plataforma onde qualquer pessoa possa ter uma boa expêriencia no evento IEM realizado no Rio de Janeiro.<br>
 <br>
-<b>A plataforma deve fornecer informações sobre:<b><br>
+<b>A plataforma deve fornecer informações sobre:<b>
+<br>
  - Horários dos jogos;<br>
  - Ranking de jogadores e equipes;<br>
  - Hospedagem para visitantes fora do Rio de Janeiro; <br>
@@ -37,9 +38,13 @@ Deve ser uma plataforma onde qualquer pessoa possa ter uma boa expêriencia no e
 ### 2. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
-<b>Onde ocorrerá o evento?</b><br> - O evento em questão será realizado na Farmasi Arena no Rio de Janeiro.
+<b>Onde ocorrerá o evento?</b>
+<br> 
+- O evento em questão será realizado na Farmasi Arena no Rio de Janeiro.
  <br>
-<b>Quando ocorrerá o evento?</b><br> - O torneio começa dia 7 de Outubro e será realizado no Rio entre 11 a 13 de Outubro.
+<b>Quando ocorrerá o evento?</b>
+<br>
+ - O torneio começa dia 7 de Outubro e será realizado no Rio entre 11 a 13 de Outubro.
 </p>
 
 ---
