@@ -10,7 +10,7 @@ O brainstorm é uma técnica de elicitação de requisitos que consiste em reuni
  
 ## Metodologia
 <p align = "justify">
-A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .... e terminou..., onde o XXXX XXXX foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
+A equipe se reuniu para debater ideias gerais sobre o projeto via discord, onde o Fabrício foi o moderador, direcionando a equipe com questões pré-elaboradas, e transcrevendo as respostas para o documento.
 </p>
  
 ## Brainstorm
@@ -22,76 +22,33 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via..., começou .
 ### 1. Qual o objetivo principal da aplicação?
  
 <p align = "justify">
-<b>XXXX</b> - Deve ser uma plataforma onde qualquer pessoa possa...
-</p>
+Deve ser uma plataforma onde qualquer pessoa possa ter uma boa expêriencia no evento IEM realizado no Rio de Janeiro.
  
-<b>ZZZ</b> - A plataforma deve fornece...
- 
-<b>YYYY</b> - O objetivo da aplicação é....
- 
-<b>WWWW</b> - O principal objetivo da aplicação é a...
- 
-<b>KKKK</b> - A plataforma deve gerenciar...
+A plataforma deve fornecer informações sobre:
+ - Horários dos jogos;
+ - Ranking de jogadores e equipes;
+ - Hospedagem para visitantes fora do Rio de Janeiro; 
+ - Itinerários para chegar no evento;
+ - Sugestões de serviços por perto como hospitais e restaurantes.
 </p>
  
 ---
  
-### 2. Como será o processo para cadastrar um novo clientetorneio?
- 
-<p align = "justify">
-<b>XXXX</b> - O moderador deverá fazer login e...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>WWWW</b> - Com o usuário logado, ele deverá...
+### 2. Outras perguntas pertinentes ao contexto
 
-<b>ZZZZ</b> - O cliente...
+<p align = "justify">
+<b>Onde ocorrerá o evento?</b> - O evento em questão será realizado na Farmasi Arena no Rio de Janeiro.
  
-<b>KKK</b> - O cliente...
- 
+<b>Quando ocorrerá o evento?</b> - O torneio começa dia 7 de Outubro e será realizado no Rio entre 11 a 13 de Outubro.
+</p>
+
 ---
  
-### 3. Como será a forma de adicionar produtos?
- 
+### 3. Quais informações seriam interessante para o cliente?
 <p align = "justify">
-<b>XXXX</b> - O cliente ao cadastrar...
-</p>
- 
-<p align = "justify">
-<b>YYYYY</b> - O produto tem...
-</p>
- 
-<b>ZZZZ</b> - O produto....
- 
-<b>XXXX</b> - O produto....
-
- 
----
- 
-### 4. Outras perguntas pertinentes ao contexto
-
-<p align = "justify">
-<b>XXXX</b> - Com a localização...
- 
-<b>YYYY</b> - O cliente...
- 
-<b>ZZZ</b> - O cliente...
- 
----
- 
-### 5. "Outras perguntas pertinentes ao contexto", Como seria a forma de adicionar do cliente adicionar os produtos ?
-<p align = "justify">
-<b>XXX</b> - O cliente....
-</p>
- 
-### 6. Quais informações seriam interessante para o cliente?
-<p align = "justify">
-   <b>XXX</b> - Informações...
-   
-   <b>ZZZZ</b> - O cliente usuário poderá acessar informações...
-
-   <b>WWWWs</b> - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios, locais e data das partidas.
-   
+   - Programação completa dos 3 dias de evento, indicando os horários em que cada partida será realizada.
+   - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios e as line-ups de cada equipe.
+   - O cliente usuário poderá acessar informações de hospedagem, sugestões de restaurantes e postos de saúde por perto.
 </p>
  
 ### Requisitos elicitados
