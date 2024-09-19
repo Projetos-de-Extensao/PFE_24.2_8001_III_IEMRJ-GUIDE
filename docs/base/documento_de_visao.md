@@ -5,83 +5,47 @@ title: Documento de Visão
 ## Introdução
 
 <p align = "justify">
-O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Arquitetura e Desenho de Software 2020/1, na Universidade de Brasília. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
+O propósito deste documento é fornecer uma visão geral sobre o projeto que será realizado na disciplina Projeto Front-End 2024.2, na Universidade Ibmec unidade Barra. Sendo assim, Nesse documento serão descritas de maneira resumida as principais funcionalidades, usabilidades, o problema que será abordado e os objetivos da equipe.
 </p>
 
 ## Descrição do Problema 
 
 <p align = "justify">
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+O e-sport é uma modalidade que vem crescendo muito nos últimos anos e milhares de pessoas aqui no Brasil acompanham diversos campeonatos internacionais pela internet. Infelizmente ainda não ocorrem muitos desses torneios presencialmente no Brasil, porém em breve será realizado o IEM, campeonato mundial de Counter-Strike 2, aqui no Rio de Janeiro! Por não ser muito frequente a realização desse evento no Brasil, é de se esperar que o público fique um pouco perdido e acabe não aproveitando ao máximo a experiência.
 </p>
 
 ### Problema
 
-Dificuldade em gerenciar e organizar...
+Dificuldade dos fãs de CS2 de adquirir informações necessárias para aproveitar um evento internacional de e-sport realizado no Brasil.
 
 ### Impactados
 
-Usuários....
+Fã e jogadores casuais de e-sports, em sua maioria de CS2.
 
 ### Consequência
 
-A criação de novos....
+Público insatisfeito por não ter o conhecimento necessário para ter uma boa experiência no evento.
 
 ### Solução
 
-Utilizar a aplicação que será desenvolvida visando resolver...
+Desenvolver um site que forneça informações que garantam uma boa experiência ao público que estará no torneio IEM realizado no Rio de Janeiro. Entre elas: <br>
+- Horários dos jogos;<br>
+- Ranking de jogadores e equipes;<br>
+- Hospedagem para visitantes fora do Rio de Janeiro;<br>
+- Itinerários para chegar no evento;<br>
+- Sugestões de serviços por perto como hospitais e restaurantes.<br>
 
 ## Objetivos
 
 <p align = "justify">
-O objetivo da equipe de desenvolvimento é fornecer...
-</p>
-
-## Descrição do Usuário 
-
-<p align = "justify">
-Os usuários serão....
-</p>
-
-## Recursos do produto
-
-### Conta
-
-<p align = "justify">
-O cliente poderá realizar seu cadastro....
-</p>
-
-### Loja
-
-<p align = "justify">
-O cliente poderá cadastrar uma loja única....
-</p>
-
-### Produto
-
-<p align = "justify">
-O cliente poderá cadastrar....
-</p>
-
-### Pesquisa sobre Lojas
-
-<p align = "justify">
-O cliente poderá pesquisar...
-</p>
-
-## Restrições
-
-<p align = "justify">
-A aplicação não será responsável...
+O objetivo da equipe de desenvolvimento garantir que o usuário tenha todas as informações possíveis para ter uma boa experiência no evento.
 </p>
 
 ## Referências Bibliográficas
 
-> Documento de visão. Disponível em https://www... Acesso em dd/MM/yyYY
-
-> Documento de visão. Disponível em  Acesso em dd/MM/yyYY
+> Documento de visão. Disponível em  Acesso em 18/09/2024
 
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| DD/MM/YYYY | 1.0 | Criação do documento | XXX XXXX e ZZZ ZZZZ | 
-
+| 18/09/2024 | 1.0 | Criação do documento | Fabrício e Paco | 
