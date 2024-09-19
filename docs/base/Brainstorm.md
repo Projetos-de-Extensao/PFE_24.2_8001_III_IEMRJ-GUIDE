@@ -23,12 +23,12 @@ A equipe se reuniu para debater ideias gerais sobre o projeto via discord, onde 
  
 <p align = "justify">
 Deve ser uma plataforma onde qualquer pessoa possa ter uma boa expêriencia no evento IEM realizado no Rio de Janeiro.
- 
-A plataforma deve fornecer informações sobre:
- - Horários dos jogos;
- - Ranking de jogadores e equipes;
- - Hospedagem para visitantes fora do Rio de Janeiro; 
- - Itinerários para chegar no evento;
+<br>
+<b>A plataforma deve fornecer informações sobre:<b><br>
+ - Horários dos jogos;<br>
+ - Ranking de jogadores e equipes;<br>
+ - Hospedagem para visitantes fora do Rio de Janeiro; <br>
+ - Itinerários para chegar no evento;<br>
  - Sugestões de serviços por perto como hospitais e restaurantes.
 </p>
  
@@ -37,18 +37,17 @@ A plataforma deve fornecer informações sobre:
 ### 2. Outras perguntas pertinentes ao contexto
 
 <p align = "justify">
-<b>Onde ocorrerá o evento?</b> - O evento em questão será realizado na Farmasi Arena no Rio de Janeiro.
- 
-<b>Quando ocorrerá o evento?</b> - O torneio começa dia 7 de Outubro e será realizado no Rio entre 11 a 13 de Outubro.
+<b>Onde ocorrerá o evento?</b><br> - O evento em questão será realizado na Farmasi Arena no Rio de Janeiro.
+ <br>
+<b>Quando ocorrerá o evento?</b><br> - O torneio começa dia 7 de Outubro e será realizado no Rio entre 11 a 13 de Outubro.
 </p>
 
 ---
  
 ### 3. Quais informações seriam interessante para o cliente?
 <p align = "justify">
-   
-   - Programação completa dos 3 dias de evento, indicando os horários em que cada partida será realizada;
-   - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios e as line-ups de cada equipe;
+   - Programação completa dos 3 dias de evento, indicando os horários em que cada partida será realizada;<br>
+   - O usuário poderá ver scouts de partidas do torneio, ver as regras dos torneios e as line-ups de cada equipe;<br>
    - O cliente usuário poderá acessar informações de hospedagem, sugestões de restaurantes e postos de saúde por perto.
 </p>
  
