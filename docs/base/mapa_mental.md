@@ -21,7 +21,8 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ### Mapa mental 1
  
-[![Mapa mental Entrevista](../assets/Mapas_mentais/....png)](../assets/Mapas_mentais/...png)
+[![Mapa mental Geral 1]](../assets/mapa_mental.png)
+[Link de compartilhamento  do mapa mental](https://miro.com/welcomeonboard/UDF5aUxSRGkwSEJEQmdLMmtnTnFvZjBuVXBBSVNFczR4RElBZjU3N0hVd000V2pkdHNDVzNtUmw5NG9mRGpQbHwzNDU4NzY0NjAxMjA3ODk2OTUzfDI=?share_link_id=166302942778)
  
  
 ### Mapa mental 2
@@ -35,14 +36,11 @@ O mapa mental é uma ficha de estudos que ajuda a dar uma visão geral do tema, 
 </p>
  
 ## Referências
-> Mapa MentalXXX,  Disponível em: https://www.....
  
-> Ferramentas para Mapas Mentais. Disponível em: https://www....
- 
-> Plataforma para usuários colaborar no desenho... Disponível em: https://...
+> Plataforma utilizada disponível em: https://miro.com
  
 ## Versionamento
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| dd/mm/yy | 1.0 | Criação do documento | xxx xxxx |
+| 15/09/24 | 1.0 | Criação do documento | Fabrício, Yago e Paco |
 | dd/mm/yy | 2.0 | Adicionado Mapa mental 2 | xxxx xxxx |
