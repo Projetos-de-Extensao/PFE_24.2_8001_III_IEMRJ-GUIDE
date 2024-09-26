@@ -21,14 +21,14 @@ Foi levantado um ponto importante sobre o app e, assim, foi produzido o mapa men
  
 ### Mapa mental 1
  
-[![Mapa mental Geral 1]](../assets/mapa_mental.png)
+[Mapa mental Geral 1](../assets/mapa_mental.png)
 
 [Link de compartilhamento  do mapa mental](https://miro.com/welcomeonboard/UDF5aUxSRGkwSEJEQmdLMmtnTnFvZjBuVXBBSVNFczR4RElBZjU3N0hVd000V2pkdHNDVzNtUmw5NG9mRGpQbHwzNDU4NzY0NjAxMjA3ODk2OTUzfDI=?share_link_id=166302942778)
  
  
 ### Mapa mental 2
  
-[Mapa mental Brainstorm](../assets/analise_hierarquica.png)
+[Mapa mental Brainstorm](../assets/Mapas_mentais/...png)
 (assets/Mapas_mentais/....png)
  
 ## Conclusão
