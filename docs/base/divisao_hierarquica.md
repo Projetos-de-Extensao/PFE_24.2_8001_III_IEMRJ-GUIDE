@@ -30,4 +30,4 @@ Criamos um divisão hierarquica com 3 chaves principais detalhando a base do sit
 
 | Data | Versão | Descrição | Autor(es) |
 | -- | -- | -- | -- |
-| dd/mm/aa | 1.0 | Criação do documento | Autores | 
+| 18/09/24 | 1.0 | Criação do documento | Fabrício e Yago | 
