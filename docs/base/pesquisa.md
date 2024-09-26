@@ -1,7 +1,7 @@
-# 🎸 **Evento: ROCK IN RIO**
+# **Evento: IEM Rio De Janeiro**
 
-📅 **Data do evento:** 13 de setembro - 22 de setembro  
-📍 **Local do evento:** Parque Olímpico - Barra da Tijuca, Rio de Janeiro
+📅 **Data do evento:** 11 de outubro - 13 de outubro  
+📍 **Local do evento:** Farmasi Arena - Parque Olimpico - Barra da Tijuca
 
 ---
 
