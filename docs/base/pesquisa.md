@@ -1,4 +1,4 @@
-# **Evento: IEM Rio De Janeiro**
+# 🎮 **Evento: IEM Rio De Janeiro**
 
 📅 **Data do evento:** 11 de outubro - 13 de outubro  
 📍 **Local do evento:** Farmasi Arena - Parque Olimpico - Barra da Tijuca
@@ -58,14 +58,14 @@
 
 Existem diversos sites que utilizam mecânicas semelhantes de organização e informação para orientar visitantes e moradores que desconhecem a região. Alguns exemplos são:
 
-- 🥋 **IBJJF**  
-  A **IBJJF** (International Brazilian Jiu-Jitsu Federation) é a maior federação de jiu-jitsu do mundo, organizando diversos eventos internacionais do esporte. O site oferece informações detalhadas sobre horários, rankings, acomodações, preços e transporte, demonstrando o comprometimento da organização em atrair mais admiradores e fãs.  
-  🌐 [Website IBJJF](https://ibjjf.com)
+- **Liquipedia**  
+  **Liquipedia** é uma enciclopédia colaborativa dedicada a esports, especialmente popular entre a comunidade de jogos competitivos como CS, Dota 2, League of Legends e outros. O site fornece informações detalhadas sobre torneios, equipes, jogadores, mapas, formatos de jogo e resultados. É uma fonte confiável para estatísticas e análises de partidas. A comunidade e voluntários atualizam constantemente a Liquipedia, garantindo que as informações sobre eventos como o Major Rio de Janeiro estejam sempre atualizadas e precisas. Para o Major, a Liquipedia foi fundamental para fornecer dados sobre as equipes participantes, o formato do torneio e resultados em tempo real, ajudando os fãs a acompanhar o evento.
+  🌐 [Liquipedia](https://liquipedia.net)
 
-- 🎶 **Tomorrowland**  
-  O **Tomorrowland** é o maior festival de música eletrônica da Europa. No site oficial, você encontra informações completas sobre preços, localização, transporte, line-up, história do festival e estacionamento. A organização busca proporcionar uma experiência imersiva e confortável para os participantes, garantindo que o festival seja aproveitado ao máximo.  
-  🌐 [Website Tomorrowland](https://www.tomorrowland.com/home/)
+- **HLTV.org**  
+  HLTV.org é um dos sites mais respeitados e populares dedicados ao CS. Ele é conhecido por sua cobertura abrangente do jogo, incluindo notícias, análises e estatísticas. O site oferece informações sobre partidas, resultados, rankings de equipes e jogadores, bem como estatísticas detalhadas de jogos. Também publica notícias relacionadas ao cenário competitivo de CS, incluindo transferências de jogadores e eventos. Durante o Major Rio de Janeiro, o HLTV.org forneceu cobertura ao vivo, com atualizações de resultados, análises de partidas e entrevistas com jogadores, tornando-se um recurso valioso para os fãs que queriam acompanhar o torneio. O site também possui uma seção de fóruns onde os fãs podem discutir estratégias, resultados e outros tópicos relacionados ao CS.
+  🌐 [HLTV.org](https://www.hltv.org)
 
-- 🏄‍♂️ **WSL**  
-  A **World Surf League (WSL)** é a liga mundial de surfe e responsável pela organização das principais competições profissionais de surfe. O site oferece informações sobre baterias de competições, rankings mundiais masculinos e femininos, calendário, transmissões ao vivo, loja oficial e episódios históricos sobre o surfe e surfistas lendários. A WSL está cada vez mais ganhando destaque no mundo esportivo, com o site sendo uma importante ferramenta para conectar fãs e atletas.  
-  🌐 [Website WSL](https://www.worldsurfleague.com)
+- **Twitch**  
+  Twitch é uma plataforma de streaming de vídeo ao vivo, amplamente utilizada por gamers para transmitir jogos, eventos de esports e interagir com a comunidade. O Major Rio de Janeiro 2022 foi transmitido ao vivo na Twitch, permitindo que milhões de fãs assistissem às partidas em tempo real, interagissem no chat e compartilhassem suas experiências.A Twitch permite que os espectadores interajam com os streamers e outros fãs, criando um ambiente dinâmico e envolvente. Durante o Major, muitas personalidades da comunidade de CS também realizaram streams ao vivo, comentando sobre as partidas. Além das transmissões ao vivo, a Twitch disponibiliza vídeos sob demanda (VODs), permitindo que os fãs assistam a partidas que perderam ou revisitem momentos memoráveis do torneio.
+  🌐 [Twitch](https://www.twitch.tv)
