@@ -20,7 +20,7 @@ O documento foi feito utilizando a ferramenta PlantUML, em grupo via Discord.
 
 
 <p align = "justify">
-Criamos um divisão hierarquica com 3 chaves principais detalhando a base do site.
+Criamos um divisão hierarquica com 4 chaves principais detalhando a base do site.
 </p>
 
 ![Divisão Hierarquica](../assets/analise_hierarquica.png)
