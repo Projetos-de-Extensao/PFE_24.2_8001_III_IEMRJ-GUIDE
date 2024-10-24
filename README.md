@@ -6,7 +6,6 @@
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| 202308149814  | Arthur Gomes        |
 | 202402628933  | Fabrício de Brito   |
 | 202402879669   |  Paco Guimarães |
 | 202402185314  |  Yago Duarte Andrade|
