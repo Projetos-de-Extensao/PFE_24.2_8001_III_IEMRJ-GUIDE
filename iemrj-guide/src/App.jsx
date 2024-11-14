@@ -1,13 +1,14 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Header from './components/header.jsx';
-import Footer from './components/footer.jsx';
-import Begin from './components/begin.jsx';
-import Map from './components/mapa.jsx';
-import Teams from './components/times.jsx';
-import SchedulePage from './components/programacao.jsx';
-import Services from './components/sevicos.jsx';
-import FAQ from './components/faq.jsx';
+import Header from './src/components/header.jsx';
+import Footer from './src/components/footer.jsx';
+import Begin from './src/components/begin.jsx';
+import Map from './src/components/mapa.jsx';
+import Teams from './src/components/times.jsx';
+import SchedulePage from './src/components/programacao.jsx';
+import Services from './src/components/servicos.jsx';
+import FAQ from './src/components/faq.jsx';
+import LoginPage from './src/components/login.jsx';
 
 function App() {
   return (
@@ -36,6 +37,7 @@ function App() {
             </>
           }
         />
+        <Route path='login' element={<LoginPage />}/>
         <Route path="faq" element={<FAQ />} />
       </Routes>
       <Footer />

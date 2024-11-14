@@ -33,6 +33,9 @@ function Header() {
         <div className={`header-menu-options ${menuOpen ? 'show' : ''}`}>
           <ul>
             <li>
+              <Link to="/login" onClick={() => setMenuOpen(false)}><span>Entrar</span></Link>
+            </li>
+            <li>
               <Link to="/" onClick={() => { handleScroll('home'); setMenuOpen(false) }}>Home</Link>
             </li>
             <li>
@@ -53,37 +56,84 @@ function Header() {
           </ul>
         </div>
       </div>
+      <div className="header-pc">
+        <ul className="header-nav">
+          <li>
+            <Link id='nav-color' to="/" onClick={() => { handleScroll('home'); setMenuOpen(false) }}>HOME</Link>
+          </li>
+          <li>
+            <a id='nav-color' href="/#mapa" onClick={() => { handleScroll('Map'); setMenuOpen(false) }}>MAPA</a>
+          </li>
+          <li>
+            <a id='nav-color' href="/#times" onClick={() => { handleScroll('teams'); setMenuOpen(false) }}>TIMES</a>
+          </li>
+          <li>
+            <a id='nav-color' href="/#programacao" onClick={() => { handleScroll('schedule'); setMenuOpen(false) }}>PROGRAMAÇÃO</a>
+          </li>
+          <li>
+          <a id='nav-color' href="/#servicos" onClick={() => { handleScroll('services'); setMenuOpen(false) }}>SERVIÇOS</a>
+          </li>
+          <li>
+            <Link id='nav-color' to="/faq" onClick={() => setMenuOpen(false)}>FAQ</Link>
+          </li>
+        </ul>
+        <div className="header-entrar">ENTRAR</div>
+      </div>
       <style jsx>{`
         .header {
-          position: fixed;
+          display: flex;
           top: 0;
           left: 0;
           width: 100%;
           background-color: rgb(16, 28, 102);
           padding: 10px;
-          display: flex;
           justify-content: space-between;
           align-items: center;
           z-index: 1000;
         }
 
         .header-icon {
+          margin-left: 10px;
           width: 140px;
           height: 45px;
-          border-radius: 0%;
           overflow: hidden;
+          
         }
 
         .header-icon img {
           width: 100%;
           height: 100%;
           object-fit: cover;
+          
         }
 
         .header-menu {
-          display: flex;
-          align-items: center;
-          cursor: pointer;
+          display: none; 
+        }
+
+        @media (max-width: 1024px) {
+          .header-menu {
+            display: flex;
+            align-items: center;
+            cursor: pointer;
+          }
+          
+
+          .header-pc {
+            display: none; 
+          }
+        }
+
+        @media (min-width: 1025px) {
+          .header-pc {
+            display: flex;
+            width: 100%;
+            align-items: center;
+          }
+
+          .header-menu {
+            display: none; 
+          }
         }
 
         .header-menu-icon {
@@ -124,9 +174,9 @@ function Header() {
           top: 60px;
           left: 0;
           width: 100vw;
-          height: 50vh;
+          height: 65vh;
           border-radius: 10px;
-          background-color: rgb(16, 28, 102, 98%);
+          background-color: rgba(16, 28, 102, 0.98);
           display: flex;
           justify-content: center;
           align-items: center;
@@ -153,7 +203,7 @@ function Header() {
         }
 
         .header-menu-options li {
-          margin: 10px;
+          margin: 20px;
           color: #fff;
         }
 
@@ -162,6 +212,44 @@ function Header() {
           color: #fff;
           font-size: 25px;
         }
+
+        .header-nav {
+          display: flex;
+          gap: 40px;
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          flex-grow: 1; 
+          justify-content: center; 
+          padding-top: 5px;
+        }
+
+        .header-nav li {
+          color: #fff;
+          cursor: pointer;
+          font-size: 19px;
+        }
+        
+        .header-entrar {
+          margin-right: 25px;
+          color: #FFA500;
+          cursor: pointer;
+          font-size: 19px;
+        }
+        
+        #nav-color {
+          color: #fff;
+        }
+
+        @media (max-width: 375px) {
+          .header-menu-options{
+            width: 104vw;
+            height: 80vh;
+          }
+
+
+          
+
       `}</style>
     </header>
   );

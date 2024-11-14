@@ -1,16 +1,16 @@
 import React from 'react';
 
 function Begin() {
-    return (
-        <div className="begin-section">
-            <p className="evento">IEM<span> Rio 2024</span></p>
-            <p className="sobre">
-                Retornando para o Brasil e Rio de Janeiro pelo terceiro ano consecutivo, o Intel Extreme Masters terá os melhores 16 times junto com os milhares de fãs apaixonados na Farmasi Arena! A torcida fervorosa da multidão Brasileira, diversas atividades e um fim de semana de muito Counter-Strike é algo que você não quer perder! Garanta seus ingressos agora e presencie quem vai se tornar o campeão do IEM Rio em 2024.
-            </p>
-            <div className="botao">
-                <a href="https://www.mundo-ticket.com/pt/evento/iem-rio-2024" target="_blank" rel="noopener noreferrer">Comprar ingresso</a>
-            </div>
-            <style jsx>{`
+  return (
+    <div className="begin-section">
+      <p className="evento">IEM<span> Rio 2024</span></p>
+      <p className="sobre">
+        Retornando para o Brasil e Rio de Janeiro pelo terceiro ano consecutivo, o Intel Extreme Masters terá os melhores 16 times junto com os milhares de fãs apaixonados na Farmasi Arena! A torcida fervorosa da multidão Brasileira, diversas atividades e um fim de semana de muito Counter-Strike é algo que você não quer perder! Garanta seus ingressos agora e presencie quem vai se tornar o campeão do IEM Rio em 2024.
+      </p>
+      <div className="botao">
+        <a href="https://www.mundo-ticket.com/pt/evento/iem-rio-2024" target="_blank" rel="noopener noreferrer">Comprar ingresso</a>
+      </div>
+      <style jsx>{`
         .begin-section {
           text-align: center;
           padding: 40px 20px;
@@ -38,7 +38,7 @@ function Begin() {
         }
 
         .botao {
-          margin-top: 20px;
+          margin-top: 40px;
         }
 
         .botao a {
@@ -55,8 +55,8 @@ function Begin() {
           background-color: #ff6600;
         }
       `}</style>
-        </div>
-    );
+    </div>
+  );
 }
 
 export default Begin;
