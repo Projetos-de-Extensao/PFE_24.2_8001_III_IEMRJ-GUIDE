@@ -10,7 +10,7 @@ function Services() {
         <h2 id="hospedagem-title">Hospedagem Próxima</h2>
         <ul>
           <li>
-            <strong>Hotel Barra Palace:</strong> R$350/noite - Conforto e conveniência a 1 km do evento. 
+            <strong>Hotel Barra Palace:</strong> R$350/noite - Conforto e conveniência a 1 km do evento.
             <p>Serviços de Táxi: Central Táxi Barra (24h, próximo à arena).</p>
           </li>
           <li>
