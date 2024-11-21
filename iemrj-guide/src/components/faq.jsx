@@ -53,7 +53,7 @@ function FAQ() {
 
       <style jsx>{`
         .faq-container {
-          max-width: 800px;
+          max-width: 100%;
           margin: 0 auto;
           padding: 20px;
           background-color: #f5f5f5;
@@ -61,6 +61,7 @@ function FAQ() {
         }
 
         h1 {
+          front-size: 20px;
           text-align: center;
           color: #102866;
         }
@@ -75,13 +76,13 @@ function FAQ() {
         }
 
         h2 {
-          font-size: 18px;
+          font-size: 30px;
           color: #FFA500;
           margin-bottom: 5px;
         }
 
         p {
-          font-size: 16px;
+          font-size: 20px;
           line-height: 1.6;
         }
 
