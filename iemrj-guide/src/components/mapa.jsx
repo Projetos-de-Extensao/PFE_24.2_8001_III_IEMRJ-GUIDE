@@ -24,7 +24,7 @@ function Map() {
           ></iframe>
         </div>
       </section>
-
+      <hr></hr>
       <div className="mapa-evento">
         <ul className="title-evento">
           <li className="nome-evento">Mapa do Evento</li>
@@ -107,7 +107,11 @@ function Map() {
         }
 
         .mapa-evento img {
-          width: 900px;
+          width: 650px;
+        }
+
+        hr {
+          margin-top: 2rem;
         }
 
         @media (max-width: 600px) {

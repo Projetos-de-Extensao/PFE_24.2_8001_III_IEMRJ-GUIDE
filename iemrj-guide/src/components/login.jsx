@@ -29,6 +29,7 @@ function LoginPage() {
           box-sizing: border-box;
           margin: 0;
           padding: 0;
+          width: 100%;
         }
 
         .login-page {
@@ -36,7 +37,7 @@ function LoginPage() {
           flex-direction: column;
           min-height: 85vh;
         }
-
+        
         .footer {
           background-color: rgb(16, 28, 102);
           color: white;
@@ -57,6 +58,7 @@ function LoginPage() {
         .login-container h1 {
             color: rgb(16, 28, 102);
             margin-bottom: 20px;
+            text-align: center;
         }
             
         .login-form {
@@ -131,6 +133,7 @@ function LoginPage() {
           margin-top: 20px;
           font-size: 0.9rem;
           color: #333;
+          padding-left: 5rem;
         }
 
         .signup-link a {
