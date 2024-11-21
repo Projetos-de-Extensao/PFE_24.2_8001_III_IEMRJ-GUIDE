@@ -77,7 +77,9 @@ function Header() {
             <Link id='nav-color' to="/faq" onClick={() => setMenuOpen(false)}>FAQ</Link>
           </li>
         </ul>
-        <div className="header-entrar">ENTRAR</div>
+        <div className="header-entrar">
+          <Link id='nav-color' to="/login">ENTRAR</Link>
+        </div>
       </div>
       <style jsx>{`
         .header {
